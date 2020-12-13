@@ -1,0 +1,11 @@
+
+/.venv
+.venv/*
+.env.prod
+.env.prod.db
+static/*
+staticfiles/*
+mediafiles/*
+testeb.pem
+.env
+.env.dev
